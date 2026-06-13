@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "cliente": "Anna Verdi",
+    "messaggio": "Non riesco ad accedere: la pagina mi dà un errore dopo il login.",
+    "priorita": 4,
+    "tags": ["login", "errore"]
+  },
+  {
+    "id": 2,
+    "cliente": "Luca Bianchi",
+    "messaggio": "Vorrei una copia della fattura di maggio.",
+    "priorita": 2,
+    "tags": ["fattura"]
+  },
+  {
+    "id": 3,
+    "cliente": "Sara Neri",
+    "messaggio": "Il pacco risulta consegnato ma non ho ricevuto nulla.",
+    "priorita": 5,
+    "tags": ["consegna"]
+  },
+  {
+    "id": 4,
+    "cliente": "Marco Rossi",
+    "messaggio": "L'app va in crash quando apro le impostazioni.",
+    "priorita": 4,
+    "tags": ["app", "crash"]
+  },
+  {
+    "id": 5,
+    "cliente": "Elena Gallo",
+    "messaggio": "Come posso cambiare l'indirizzo email del mio profilo?",
+    "priorita": 1,
+    "tags": []
+  },
+  {
+    "id": 6,
+    "cliente": "Paolo Riva",
+    "messaggio": "Il pagamento è stato addebitato due volte, chiedo un rimborso.",
+    "priorita": 5,
+    "tags": ["pagamento", "rimborso"]
+  },
+  {
+    "id": 7,
+    "cliente": "Giulia Fontana",
+    "messaggio": "Ho dimenticato la password e il reset non funziona.",
+    "priorita": 3,
+    "tags": ["password"]
+  },
+  {
+    "id": 8,
+    "cliente": "Davide Greco",
+    "messaggio": "Quando arriva la spedizione dell'ordine 1042?",
+    "priorita": 2,
+    "tags": ["spedizione"]
+  },
+  {
+    "id": 9,
+    "cliente": "Chiara Costa",
+    "messaggio": "Complimenti per il servizio, tutto perfetto!",
+    "priorita": 1,
+    "tags": []
+  },
+  {
+    "id": 10,
+    "messaggio": "Errore 500 sul checkout.",
+    "priorita": 4,
+    "tags": ["errore"]
+  },
+  {
+    "id": 11,
+    "cliente": "Franco Mari",
+    "messaggio": "La fattura ha l'IVA sbagliata.",
+    "priorita": 9,
+    "tags": ["fattura"]
+  },
+  {
+    "id": 12,
+    "cliente": "Rita Bo",
+    "messaggio": "Il corriere non trova il citofono.",
+    "priorita": "alta",
+    "tags": ["corriere"]
+  }
+]

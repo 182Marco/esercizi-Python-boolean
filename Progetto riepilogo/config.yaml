@@ -1,0 +1,14 @@
+# Configurazione del triage - Progetto Riepilogo M1 (AI Help Desk)
+# Parole chiave per categoria: la prima categoria che contiene
+# una parola presente nel messaggio vince.
+
+categorie:
+  tecnico: [errore, crash, bug, password, login]
+  # attenzione alle parole troppo corte: "iva" matcherebbe anche "arriva"!
+  fatturazione: [fattura, pagamento, rimborso]
+  spedizione: [pacco, consegna, spedizione, corriere]
+
+categoria_default: generale
+
+# Un ticket con priorita >= soglia_urgenza viene evaso subito (in async)
+soglia_urgenza: 4
